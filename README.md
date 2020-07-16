@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to collaborate on any packages or open source project.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: @susantaChak[https://twitter.com/susantaChak] @susanta96[https://www.linkedin.com/in/susanta96/]
+- 📫 How to reach me: [@susantaChak](https://twitter.com/susantaChak) [@susanta96](https://www.linkedin.com/in/susanta96/)
 - ⚡ Fun fact: I love to code. hate to talk.
 
