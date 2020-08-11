@@ -10,3 +10,4 @@
 - 📫 How to reach me: [@susantaChak](https://twitter.com/susantaChak) [@susanta96](https://www.linkedin.com/in/susanta96/)
 - ⚡ Fun fact: I love to code. hate to talk.
 
+![my github stats](https://github-readme-stats.vercel.app/api?username=susanta96&count_private=true&show_icons=true)
