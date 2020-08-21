@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T05:33:09.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="OkGQuJf8TL_voOUqo0HO" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T05:41:14.728Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="yYZuPtOXyWgEjP5i2vpw" version="13.6.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,7 @@
         </mxCell>
         <mxCell id="xJg55t27PuIyZlP2slNI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xJg55t27PuIyZlP2slNI-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="680" as="targetPoint" />
+            <mxPoint x="710" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xJg55t27PuIyZlP2slNI-65" value="if survey data exist" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -210,11 +210,16 @@
         <mxCell id="xJg55t27PuIyZlP2slNI-70" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="530" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJg55t27PuIyZlP2slNI-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xJg55t27PuIyZlP2slNI-71" value="Exam Date Choose" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="690" y="510" width="100" height="76" as="geometry" />
         </mxCell>
         <mxCell id="xJg55t27PuIyZlP2slNI-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="1070" width="440" height="300" as="geometry" />
+          <mxGeometry x="616" y="840" width="440" height="300" as="geometry" />
         </mxCell>
         <mxCell id="xJg55t27PuIyZlP2slNI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xJg55t27PuIyZlP2slNI-81" source="xJg55t27PuIyZlP2slNI-72">
           <mxGeometry relative="1" as="geometry">
@@ -243,6 +248,48 @@
         </mxCell>
         <mxCell id="xJg55t27PuIyZlP2slNI-79" value="Go to Next page&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xJg55t27PuIyZlP2slNI-80">
           <mxGeometry x="35" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJg55t27PuIyZlP2slNI-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJg55t27PuIyZlP2slNI-83" target="xJg55t27PuIyZlP2slNI-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-83" value="Check for Cookie&lt;br&gt;exist ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-87" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="780" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-88" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="700" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJg55t27PuIyZlP2slNI-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-89" value="Fetch Data based on authType" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="850" y="670" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJg55t27PuIyZlP2slNI-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-91" value="Set Cookie TOken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-93" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="800" as="sourcePoint" />
+            <mxPoint x="710" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJg55t27PuIyZlP2slNI-94" value="We need to check Authtype to call differnt API" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="920" y="586" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
