@@ -1,5 +1,6 @@
-### Hello, there. I'm SUSANTA CHAKRABORTY 👋
+## Hello, there. I'm [SUSANTA CHAKRABORTY!](https://susanta96.github.io) 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta96&color=blueviolet&style=flat-square" alt="susanta96" /> </p>
 <!--
 **susanta96/susanta96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -9,5 +10,22 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [@susantaChak](https://twitter.com/susantaChak) [@susanta96](https://www.linkedin.com/in/susanta96/)
 - ⚡ Fun fact: I love to code. hate to talk.
+
+[![Twitter: susantaChak](https://img.shields.io/twitter/follow/susantaChak?style=social)](https://twitter.com/susantaChak)
+[![Linkedin: susanta96](https://img.shields.io/badge/-susanta96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/susanta96/)](https://www.linkedin.com/in/susanta96/)
+[![GitHub susanta96](https://img.shields.io/github/followers/susanta96?label=follow&style=social)](https://github.com/susanta96)
+
+**Languages Preference:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+<a href="https://github.com/susanta96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanta96&theme=light&hide_langs_below=1" />
+</a>
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=susanta96&count_private=true&show_icons=true)
