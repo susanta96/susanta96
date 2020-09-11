@@ -24,8 +24,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-<a href="https://github.com/susanta96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanta96&theme=light&hide_langs_below=1" />
-</a>
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=susanta96&count_private=true&show_icons=true)
+<table>
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
+    </td>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
+    </td>
+  </tr>
+</table>
+<hr/>
