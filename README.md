@@ -23,15 +23,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
-<table>
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
-    </td>
-    <td align="center">
-      <img align="left" src="https://github-stats-eight.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
-    </td>
-  </tr>
-</table>
 <hr/>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="susanta's GitHub Stats" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true"/>
+  <img align="right" src="https://github-stats-eight.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
+</details>
