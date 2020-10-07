@@ -27,10 +27,10 @@
 <table>
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
+      <img align="left" src="//github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true&hide_rank=true" />
     </td>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
+      <img align="left" src="/github-stats-eight.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
     </td>
   </tr>
 </table>
