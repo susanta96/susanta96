@@ -24,9 +24,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <hr/>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <img align="left" alt="susanta's GitHub Stats" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true"/>
-  <img align="right" src="https://github-stats-eight.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
-</details>
+
+**:zap: GitHub Stats**
+
+<a href="https://github.com/susanta96/aschat-vue">
+  <img align="center" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/susanta96/aschat-vue">
+  <img align="center" src="https://github-stats-eight.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
+</a>
