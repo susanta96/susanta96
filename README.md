@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susanta Chakraborty</h1>
 <h3 align="center">A frontend developer from Kolkata, 🇮🇳</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=susanta96&column=5" alt="susanta96" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=susanta96&column=7" alt="susanta96" /> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta96&color=blueviolet&style=flat-square" alt="susanta96" /> </p> -->
 
 <!--
@@ -49,11 +49,6 @@
 <!-- **:zap: GitHub Stats** -->
 <h3 align="left"> 🎖 Github Stats: </h3>
 
-<!-- <a href="https://github.com/susanta96/todo-list-js"> -->
-  <img align="center" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
-<!-- </a> -->
-<!-- <a href="https://github.com/susanta96/todo-list-js"> -->
-  <img align="center" src="https://github-stats-eight.vercel.app/api/top-langs/?username=susanta96&theme=vue&layout=compact&count_private=true" />
-<!-- </a> -->
+<img align="center" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=susanta96&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=484F50)](https://git.io/streak-stats)
