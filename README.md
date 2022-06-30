@@ -8,8 +8,8 @@
 **susanta96/susanta96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 -   🔭 Here is my npm package [json2scss-map](https://www.npmjs.com/package/json2scss-map)
--   😎 Also, on the way to publishing new Dark Theme for VsCode (not-done)
--   🌱 I’m currently learning Socket.io & Recoil.
+-   😎 Also, on the way to publishing new Dark Theme for VsCode (working)
+-   🌱 I’m currently learning Socket.io & TypeScript.
 -   👯 I’m looking to collaborate on any packages or open source project.
 -   💬 Ask me about any tech/Crypto stuff.
 -   📫 How to reach me: **info@susanta.xyz**
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/susantaChak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrupanjan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/susanta96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrupanjan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/susanta96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanta96" height="30" width="40" /></a>
 </p>
 <!-- 
 [![Twitter: susantaChak](https://img.shields.io/twitter/follow/susantaChak?style=social)](https://twitter.com/susantaChak)
