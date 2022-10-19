@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susanta Chakraborty</h1>
-<h3 align="center">A frontend developer from Kolkata, 🇮🇳</h3>
+<h3 align="center">A frontend developer from bangalore, india</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=susanta96&column=7" alt="susanta96" /> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta96&color=blueviolet&style=flat-square" alt="susanta96" /> </p> -->
@@ -9,10 +9,11 @@
 
 -   🔭 Here is my npm package [json2scss-map](https://www.npmjs.com/package/json2scss-map)
 -   😎 Also, on the way to publishing new Dark Theme for VsCode (working)
--   🌱 I’m currently learning Socket.io & TypeScript.
--   👯 I’m looking to collaborate on any packages or open source project.
+-   😍 Another plugin i am working on.
+-   🌱 I’m currently learning TypeScript & **D3.js**.
+-   👯 Always looking to collaborate on any packages or open source project.
 -   💬 Ask me about any tech/Crypto stuff.
--   📫 How to reach me: **info@susanta.xyz**
+-   📫 How to reach me: **info@susanta.xyz** or **susanta96@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
