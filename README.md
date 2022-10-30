@@ -9,8 +9,10 @@
 
 -   🔭 Here is my npm package [json2scss-map](https://www.npmjs.com/package/json2scss-map)
 -   😎 Also, on the way to publishing new Dark Theme for VsCode (working)
--   😍 Another plugin i am working on.
--   🌱 I’m currently learning TypeScript & **D3.js**.
+-   😍 Another plugin i am working on for Obsidian .
+-   🇮🇳 Another [s96.in](https://s96.in) Shorty App created by me. (Shorty - Yet another URL Shortner) .
+         - Please Provide Feedback after checking it out. 
+-   🌱 I’m currently learning TypeScript & tRPC & Prisma ORM. Design Side Animation on Framer Motion.
 -   👯 Always looking to collaborate on any packages or open source project.
 -   💬 Ask me about any tech/Crypto stuff.
 -   📫 How to reach me: **info@susanta.xyz** or **susanta96@duck.com**
@@ -44,7 +46,7 @@
           <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40px" height="40px" />
           </a>
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+            <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/4gk79wff3ko/website-icons/prisma.svg" width="40" height="40" /></a><a href="https://planetscale.com/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/4gk79wff3ko/website-icons/planetscale.svg" width="40" height="40" /></a>
 </p>
 
 <!-- **:zap: GitHub Stats** -->
