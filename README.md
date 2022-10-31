@@ -10,7 +10,7 @@
 -   🔭 Here is my npm package [json2scss-map](https://www.npmjs.com/package/json2scss-map)
 -   😎 Also, on the way to publishing new Dark Theme for VsCode (working)
 -   😍 Another plugin i am working on for Obsidian .
--   🇮🇳 Another [s96.in](https://s96.in) Shorty App created by me. (Shorty - Yet another URL Shortner) .
+-   Another [s96.in](https://s96.in) Shorty App created by me. (Shorty - Yet another URL Shortner) .
          - Please Provide Feedback after checking it out. 
 -   🌱 I’m currently learning TypeScript & tRPC & Prisma ORM. Design Side Animation on Framer Motion.
 -   👯 Always looking to collaborate on any packages or open source project.
