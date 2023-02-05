@@ -15,7 +15,7 @@
 -   🌱 I’m currently learning TypeScript & tRPC & Prisma ORM. Design Side Animation on Framer Motion.
 -   👯 Always looking to collaborate on any packages or open source project.
 -   💬 Ask me about any tech/Crypto stuff.
--   📫 How to reach me: **info@susanta.xyz** or **susanta96@duck.com**
+-   📫 How to reach me: **susanta96@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
