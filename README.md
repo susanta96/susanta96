@@ -14,7 +14,7 @@
 -   🌱 I’m currently learning Prisma ORM & NestJS, creating asdevs-api from scratch.
 -   👯 Always looking to collaborate on any packages or open source project.
 -   💬 Ask me about any tech/Crypto stuff.
--   📫 How to reach me: **susanta96@duck.com** or [Twitter](https://twitter.com/susantaChak) is there.
+-   📫 How to reach me: **susanta96@skiff.com** or [Twitter](https://twitter.com/susantaChak) is there.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
