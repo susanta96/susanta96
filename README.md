@@ -9,8 +9,6 @@
 
 -   🔭 Here is my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
 -   😎 Also, published a new Dark Theme for VsCode for VSCode Lovers [Venom Theme](https://marketplace.visualstudio.com/items?itemName=susanta96.venom-theme-vscode)
--   😍 Another plugin i am working on for Obsidian . (Current focus has shifted)
--  ~~Another [s96.in](https://s96.in) Shorty App created by me. (Shorty - Yet another URL Shortner) .~~ **Not Finished**
 -   🌱 I’m currently learning Prisma ORM & NestJS, creating asdevs-api from scratch.
 -   👯 Always looking to collaborate on any packages or open source project.
 -   💬 Ask me about any tech/Crypto stuff.
