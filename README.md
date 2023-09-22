@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susanta Chakraborty</h1>
 <h3 align="center">A frontend developer from bangalore, india</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=susanta96&column=7" alt="susanta96" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=susanta96&column=6" alt="susanta96" /> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta96&color=blueviolet&style=flat-square" alt="susanta96" /> </p> -->
 
 <!--
