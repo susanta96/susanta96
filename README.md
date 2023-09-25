@@ -8,11 +8,10 @@
 <!--
 **susanta96/susanta96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
--   🔭 Here is my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
+-   🔭 Here are my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
 -   😎 Also, published a new Dark Theme for VsCode for VSCode Lovers [Venom Theme](https://marketplace.visualstudio.com/items?itemName=susanta96.venom-theme-vscode)
 -   🌱 I’m currently learning Prisma ORM & NestJS, creating asdevs-api from scratch.
 -   👯 Always looking to collaborate on any packages or open source project.
--   💬 Ask me about any tech/Crypto stuff.
 -   📫 How to reach me: **susanta96@skiff.com** or [Twitter](https://twitter.com/susantaChak) is there.
 
 <h3 align="left">Connect with me:</h3>
