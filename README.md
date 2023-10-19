@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Susanta Chakraborty</h1>
-<h3 align="center">A frontend developer from bangalore, india</h3>
+<h1 align="center">Hi 👋, I'm Susanta.</h1>
+<h3 align="center">A Technical Guy from bangalore, india</h3>
 
 <!-- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=susanta96&column=6" alt="susanta96" /> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta96&color=blueviolet&style=flat-square" alt="susanta96" /> </p> -->
@@ -10,13 +10,13 @@
 
 -   🔭 Here are my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
 -   😎 Also, published a new Dark Theme for VsCode for VSCode Lovers [Venom Theme](https://marketplace.visualstudio.com/items?itemName=susanta96.venom-theme-vscode)
--   🌱 I’m currently learning Prisma ORM & NestJS, creating asdevs-api from scratch.
+-   🌱 I’m currently learning Prisma ORM & NestJS, creating **asdevs-api** from scratch.
 -   👯 Always looking to collaborate on any packages or open source project.
 -   📫 How to reach me: **susanta96@skiff.com** or [Twitter](https://twitter.com/susantaChak) is there.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/susantaChak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrupanjan" height="30" width="40" /></a>
+<a href="https://twitter.com/susantaChak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susantaChak" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/susanta96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanta96" height="30" width="40" /></a>
 </p>
 
