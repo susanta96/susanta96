@@ -38,4 +38,4 @@
 
 <img align="center" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=susanta96&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=susanta96&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
