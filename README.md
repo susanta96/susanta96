@@ -1,4 +1,4 @@
-[![Image](https://ik.imagekit.io/4gk79wff3ko/plugin-upload/Screenshot_2023-12-01_at_8.08.20_PM_QYforbnpk.JPG?tr=h-auto,f-auto)](https://www.spotify.com/in-en/wrapped/)
+
 
 <h1 align="center">Hi 👋, I'm Susanta.</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
