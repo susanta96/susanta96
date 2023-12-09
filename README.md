@@ -6,8 +6,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=susanta96&theme=onedark&column=-1)
 
 - 🔭 Here are my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
-- 😎 Also, published a new Dark Theme for VsCode for VSCode Lovers [Venom Theme](https://marketplace.visualstudio.com/items?itemName=susanta96.venom-theme-vscode)
-- 🌱 I’m currently learning Prisma ORM & NestJS, creating **asdevs-api** from scratch.
+- 😎 Also, published a new Dark Theme for VsCode for VSCode Lovers [Venom Theme](https://marketplace.visualstudio.com/items?itemName=susanta96.venom-theme-vscode).
+- 🔭 Mostly an Internal File Manager, but publish to anybody who can try it out & give me feedback to improve it. [Upload Hero](https://uploader.asdevs.dev)
+- 🌱 I’m currently learning [Golang](https://go.dev/), [Drizzle ORM](https://orm.drizzle.team/), [AstroJS](https://astro.build/) etc.
 - 👯 Always looking to collaborate on any packages or open source project.
 - 📫 How to reach me: **susanta96@skiff.com** or **susant.vanu7278@gmail.com**.
 
