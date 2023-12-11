@@ -1,8 +1,12 @@
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hi!!!;My+name+is+Susanta+Chakraborty.;I'm+a+full-stack+developer+from+india." alt="typing intro">
+</p>
 
+<!--
 <h1 align="center">Hi 👋, I'm Susanta.</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+-->
 ![trophy](https://github-profile-trophy.vercel.app/?username=susanta96&theme=onedark&column=-1)
 
 - 🔭 Here are my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
