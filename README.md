@@ -14,7 +14,7 @@
 - 🔭 Mostly an Internal File Manager, but now published globally, give me feedback to improve it. [Upload Hero](https://uploader.asdevs.dev)
 - 🌱 I’m currently learning [Golang](https://go.dev/), [Drizzle ORM](https://orm.drizzle.team/), [AstroJS](https://astro.build/) etc.
 - 👯 Always looking to collaborate on any packages or open source project.
-- 📫 How to reach me: **susanta96@skiff.com** or **susant.vanu7278@gmail.com**.
+- 📫 How to reach me: **s.chakraborty@skiff.com** or **susant.vanu7278@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
