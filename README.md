@@ -48,4 +48,4 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=susanta96&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://gh-stats.asdevs.dev?user=susanta96&theme=dracula&hide_border=true&border_radius=12)](https://gh-stats.asdevs.dev/demo)
