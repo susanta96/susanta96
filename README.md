@@ -10,12 +10,12 @@
 -->
 
 - 💻 Share Code Snippets with Style, built using NextJS 14, Github Login [CodeFrame](https://codeframe.asdevs.dev/)
+- 🔭 Mostly an Internal File Manager, but now published globally, give me feedback to improve it. [Upload Hero](https://uploader.asdevs.dev)
 - 🔭 Here are my npm packages, do check them out [json2scss-map](https://www.npmjs.com/package/json2scss-map), [react-xlsx-wrapper](https://www.npmjs.com/package/react-xlsx-wrapper).
 - 😎 Also, published a new Dark Theme for VsCode for VSCode Lovers [Venom Theme](https://marketplace.visualstudio.com/items?itemName=susanta96.venom-theme-vscode).
-- 🔭 Mostly an Internal File Manager, but now published globally, give me feedback to improve it. [Upload Hero](https://uploader.asdevs.dev)
-- 🌱 I’m currently learning [Golang](https://go.dev/), [Drizzle ORM](https://orm.drizzle.team/), [AstroJS](https://astro.build/) etc.
+- 🌱 I’m currently learning [Golang](https://go.dev/), [AWS](https://aws.amazon.com/) [AstroJS](https://astro.build/) etc.
 - 👯 Always looking to collaborate on any packages or open source project.
-- 📫 How to reach me: **chak.susanta96@gmail.com** or **susant.vanu7278@gmail.com**.
+- 📫 How to reach me: **chak.susanta96@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
