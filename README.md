@@ -1,13 +1,14 @@
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hi!!!;My+name+is+Susanta+Chakraborty.;I+am+a+full-stack+developer+from+india." alt="typing intro">
-</p>
-
 <!--
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hi!!!;My+name+is+Susanta+Chakraborty." alt="typing intro">
+</p>
+-->
+
 <h1 align="center">Hi 👋, I'm Susanta.</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-![trophy](https://github-profile-trophy.vercel.app/?username=susanta96&theme=onedark&column=-1)
--->
+<!--
+![trophy](https://github-profile-trophy.vercel.app/?username=susanta96&theme=onedark&column=-1) -->
+
 
 - 💻 Share Code Snippets with Style, built using NextJS 14, Github Login [CodeFrame](https://codeframe.asdevs.dev/)
 - 🔭 Mostly an Internal File Manager, but now published globally, give me feedback to improve it. [Upload Hero](https://uploader.asdevs.dev)
