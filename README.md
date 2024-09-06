@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hi!!!;My+name+is+Susanta+Chakraborty.;I'm+a+full-stack+developer+from+india." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hi!!!;My+name+is+Susanta+Chakraborty.;I+am+a+full-stack+developer+from+india." alt="typing intro">
 </p>
 
 <!--
