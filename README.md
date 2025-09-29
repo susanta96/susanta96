@@ -49,6 +49,3 @@
 
 <img align="center" src="https://github-stats-eight.vercel.app/api?username=susanta96&theme=vue&count_private=true&show_icons=true" />
 
-<br/>
-
-[![GitHub Streak](https://gh-stats.asdevs.dev?user=susanta96&theme=dracula&hide_border=true&border_radius=12)](https://gh-stats.asdevs.dev/demo)
