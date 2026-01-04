@@ -9,6 +9,7 @@
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=susanta96&theme=onedark&column=-1) -->
 
+- 🧑🏻‍💻 CodeAudit - A Automation tool to Generate Great PR Review on Each PR. Like CodeRabbit etc. [CodeAudit](https://code-audit.asdevs.dev)
 - ❄️ AIWrap - A Simple Wrapper around all the models [AiWrap](https://ai.asdevs.dev/)
 - 🎨 The ToolBox - All in one Utilities [The Toolbox](https://toolbox.asdevs.dev) 
 - 💻 Share Code Snippets with Style, built using NextJS 14, Github Login [CodeFrame](https://codeframe.asdevs.dev/)
