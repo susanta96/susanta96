@@ -1,9 +1,3 @@
-<!--
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hi!!!;My+name+is+Susanta+Chakraborty." alt="typing intro">
-</p>
--->
-
 <h1 align="center">Hi 👋, I'm Susanta.</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <!--
